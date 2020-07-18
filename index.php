@@ -1,5 +1,5 @@
 <?php 
 
-echo "Aqui fica a idex <br>";
+echo "Aqui fica a index <br>";
 
 // include "./nova_funcionalidade.php";
